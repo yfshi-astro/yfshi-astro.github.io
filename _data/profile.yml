@@ -1,6 +1,6 @@
 primary_name: "Yangfan Shi"
 secondary_name: ""
-navbar_name: "YangfanShi"
+navbar_name: "Yangfan Shi"
 
 positions:
 - name: Ph.D. candidate
@@ -23,23 +23,23 @@ orcid: 0000-0001-9277-6495
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    Nihao there! I am Yángfān Shī (施杨帆), a final-year Ph.D. student at 
-    the <a href="https://kiaa.pku.edu.cn/" target="_blank">Kavli Institute for Astronomy and Astrophysics at Peking University</a>,
+    你好 Nihao! I am Yángfān Shī (施杨帆), a final-year Ph.D. student at 
+    the <a href="https://kiaa.pku.edu.cn/" target="_blank">Kavli Institute for Astronomy and Astrophysics, Peking University</a>,
     advised by <a href="https://gherczeg.github.io/" target="_blank">Gregory Herczeg</a> and 
     <a href="https://long-feng.github.io/" target="_blank">Feng Long</a>.
-    During my Ph.D., I also spent 1 years at the ESO Garching headquarters with an <a href="https://www.eso.org/sci/activities/fellowships-and-studentships/FeSt-overview/ESOstudentship.html" target="_blank">ESO Studentship</a>, 
+    During my Ph.D., I also spent one year at the ESO headquarters in Garching with an <a href="https://www.eso.org/sci/activities/fellowships-and-studentships/FeSt-overview/ESOstudentship.html" target="_blank">ESO Studentship</a>, 
     working with <a href="https://sites.google.com/view/emacias/home" target="_blank">Enrique Macías</a>.
     Prior to my Ph.D., I received a B.S. degree in Physics from Shandong University in 2020.
   </p>
   <p>
     I was born in <a href="https://en.wikipedia.org/wiki/Jingdezhen" target="_blank">Jingdezhen (景德镇)</a>, Jiangxi province, 
-    known as the "Porcelain Capital".
+    a city known as the "Porcelain Capital" in China.
   </p>
   <p>
-    In life, I enjoy <i class="fas fa-camera"></i>  <i class="fas fa-hiking"></i>  singing, badminton, sci-fi <i class="fas fa-book"></i> and <i class="fas fa-film"></i>, watching football (used to play as well).
+    In my life, I enjoy <i class="fas fa-camera"></i>  <i class="fas fa-hiking"></i>  singing, badminton, sci-fi <i class="fas fa-book"></i> and <i class="fas fa-film"></i>, watching football (used to play as well).
   </p>
 
-portrait_url: /assets/images/photos/portrait_beer.png
+portrait_url: /assets/images/photos/portrait_beer.jpeg
 portrait_caption: >-
   Starkbierfest in Munich 🍻!
 
@@ -60,6 +60,7 @@ experience:
   logo: /assets/images/badges/eso.jpg
   position: Studentship Programme
   date: Nov. 2023 - Oct. 2024
+
 
 # awards:
 # - name: Award Name 2

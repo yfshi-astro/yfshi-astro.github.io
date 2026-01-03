@@ -1,10 +1,10 @@
 ---
 show: true
-width: 2
+width: 
 date: 2020-01-12 00:01:00 +0800
 ---
 <div>
-  <img data-src="assets/images/photos/portrait_showcase2.jpeg" class="lazy w-100 rounded-xl-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+  <img data-src="assets/images/photos/portrait_showcase2.jpeg" class="lazy w-100 rounded-xl-top" style="height: 9.8em; width: auto" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <!-- <div class="card-body">
     <h5 class="card-title">GitHub Star History</h5>
     <p class="card-text">

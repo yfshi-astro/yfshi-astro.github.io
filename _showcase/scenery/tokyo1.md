@@ -1,6 +1,6 @@
 ---
 show: true
-width: 3
+width: 4
 date: 2025-02-15 00:01:00 +0800
 group: <i class="fas fa-camera"></i> Nature & City
 ---
